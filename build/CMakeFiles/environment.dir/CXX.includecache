@@ -56,10 +56,6 @@ render/box.h
 Eigen/Geometry
 -
 
-/home/navid/Desktop/SFND_Lidar_Obstacle_Detection/src/render/render.cpp
-render.h
-/home/navid/Desktop/SFND_Lidar_Obstacle_Detection/src/render/render.h
-
 /home/navid/Desktop/SFND_Lidar_Obstacle_Detection/src/render/render.h
 pcl/visualization/pcl_visualizer.h
 -
